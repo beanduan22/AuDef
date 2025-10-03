@@ -21,12 +21,7 @@ This repository contains the implementation of **AuDef**, a generalized defense 
 
 - **Datasets**: CIFAR-10, CIFAR-100, Tiny-ImageNet  
 - **Models**: ResNet-32, VGG16  
-- **Baselines**: Base, BIN, RA-BNN, Aegis  
 - **Attacks Tested**: ProFlip (sparse), P3A (structured), APA (continuous)  
-- **Results**:  
-  - 40–70% ASR reduction  
-  - 2–6% clean accuracy drop  
-  - Up to 70% smaller model size  
 
 ---
 
