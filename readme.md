@@ -25,9 +25,3 @@ This repository contains the implementation of **AuDef**, a generalized defense 
 
 ---
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/your-repo/audef.git
-cd audef
-pip install -r requirements.txt
