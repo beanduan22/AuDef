@@ -2,8 +2,6 @@
 
 This repository contains the implementation of **AuDef**, a generalized defense framework against parameter-oriented attacks on deep neural networks (DNNs).  
 
-Unlike input-space adversarial attacks, parameter attacks directly corrupt model parameters and persist across all inferences. AuDef provides **robustness against sparse, continuous, and structured parameter attacks** without retraining or large accuracy sacrifice.
-
 ---
 
 ## ✨ Key Features
